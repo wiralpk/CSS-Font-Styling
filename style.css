@@ -1,0 +1,14 @@
+h1 {
+    color: darkcyan;
+    font-family: arial,verdana,sans-serif;
+    font-size: 40px;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+p{
+    font-family: Georgia,serif;
+    font-weight: bold;
+    line-height: 25px;
+
+}
